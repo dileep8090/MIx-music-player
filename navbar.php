@@ -9,7 +9,7 @@
 <body>
     <nav>
         <ul>
-            <li class="brand"><img src="logo.png" alt="Spotify"> Spotify</li>
+            <li class="brand"><img src="logo.png" alt="Spotify">Mix music</li>
             <li><a href="index.php">Home</a></li>
             <li><a href="about.php">About</a></li>
         </ul>
